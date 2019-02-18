@@ -72,7 +72,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 
 	For this tool, 2 arguments are required.  Within the Arguments field, type:
 
- 	**-ComputerName &quot;{$TargetHostname}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot;**
+ 	**-ComputerName &quot;{$TargetHostname}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot; -AccountName &quot;{$Custom[AccountName]}&quot;**
 
 23. Scroll down to the **Permissions** section.
 
