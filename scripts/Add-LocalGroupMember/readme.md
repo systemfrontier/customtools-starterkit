@@ -26,7 +26,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 7. Click **Save**.
 8. Repeat steps 1-8 using this information:
 
-	Name: **LocalGroupName**
+	Name: **AccountName**
 
 	Description:  **Enter either local account name or domain account name with this format (domain\accountname or 		accountname@domain)**
 
