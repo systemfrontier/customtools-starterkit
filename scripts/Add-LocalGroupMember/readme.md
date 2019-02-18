@@ -33,7 +33,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 	Data type:   **text**
 
 9. Click **Save**.
-10. In System Frontier, click on **Tools \&gt;**** Create tool**.
+10. In System Frontier, click on **Tools > Create tool**.
 
 	![Create Tool](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CreateTool.png "Create Tool")
 
