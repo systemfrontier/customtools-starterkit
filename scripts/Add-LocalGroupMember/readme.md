@@ -22,7 +22,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 
 	**Enter the name of the local group that exists on the computer**
 
-6. Choose a Data type of **text**.
+6. Choose a data type of **text**.
 7. Click **Save**.
 8. Repeat steps 1-8 using this information:
 
