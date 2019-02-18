@@ -1,5 +1,4 @@
 # System Frontier
-
 [**http://systemfrontier.com**](http://systemfrontier.com/)
 
 This custom tool is for use with System Frontier.  For more information, please visit: [http://systemfrontier.com/powershell](http://systemfrontier.com/powershell).
@@ -13,23 +12,23 @@ This custom tool is for use with System Frontier.  For more information, please 
 
 3. Click **New**.  The **New Custom Field** form will be displayed.
 
-![New Custom Field](https://github.com/systemfrontier/customtools-starterkit/create/blob/images/NewCustomField.png "New Custom Field")
+![New Custom Field](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/NewCustomField.png "New Custom Field")
 
 4. Enter the name:
 
-**LocalGroupName**
+	**LocalGroupName**
 
 5. Enter the description:
 
-**Enter the name of the local group that exists on the computer**
+	**Enter the name of the local group that exists on the computer**
 
 6. Choose a Data type of **text**.
 7. Click **Save**.
 8. Repeat steps 1-8 using this information:
 
-Name: **LocalGroupName**
+	Name: **LocalGroupName**
 
-Description:  **Enter either local account name or domain account name with this format (domain\accountname or accountname@domain)**
+	Description:  **Enter either local account name or domain account name with this format (domain\accountname or 		accountname@domain)**
 
 Data type:   **text**
 
