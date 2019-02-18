@@ -24,7 +24,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 
 6. Choose a data type of **text**.
 7. Click **Save**.
-8. Repeat steps 1-8 using this information:
+8. Repeat steps 1-7 using this information:
 
 	Name: **AccountName**
 
