@@ -4,7 +4,7 @@
 
 This custom tool is for use with System Frontier.  For more information, please visit: [http://systemfrontier.com/powershell](http://systemfrontier.com/powershell).
 
-**__Add-LocalGroupMember Custom Tool Setup Instructions__**
+###_Add-LocalGroupMember Custom Tool Setup Instructions_
 
 1. In System Frontier, click **Settings.**
 2. Click **Custom Fields**.  For this tool you will need to set up 1 additional Custom Field.
