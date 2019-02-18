@@ -8,11 +8,11 @@ This custom tool is for use with System Frontier.  For more information, please 
 1. In System Frontier, click **Settings.**
 2. Click **Custom Fields**.  For this tool you will need to set up 1 additional Custom Field.
 
-![Custom Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomFields.png "Custom Fields")
+	![Custom Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomFields.png "Custom Fields")
 
 3. Click **New**.  The **New Custom Field** form will be displayed.
 
-![New Custom Field](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/NewCustomField.png "New Custom Field")
+	![New Custom Field](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/NewCustomField.png "New Custom Field")
 
 4. Enter the name:
 
@@ -30,53 +30,53 @@ This custom tool is for use with System Frontier.  For more information, please 
 
 	Description:  **Enter either local account name or domain account name with this format (domain\accountname or 		accountname@domain)**
 
-Data type:   **text**
+	Data type:   **text**
 
 9. Click **Save**.
 10. In System Frontier, click on **Tools \&gt;**** Create tool**.
 
-![Create Tool](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CreateTool.png "Create Tool")
+	![Create Tool](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CreateTool.png "Create Tool")
 
 11. Enter the tool name:
 
-**Add-LocalGroupMember**
+	**Add-LocalGroupMember**
 
 12. Enter the description:
 
-**Adds a user or group to a local group on a computer.**
+	**Adds a user or group to a local group on a computer.**
 
 13. Select the appropriate category, then click **Choose File** to specify the applicable script to use for this tool.  Be sure to select this file:
 
-**Add-LocalGroupMember.ps1**
+	**Add-LocalGroupMember.ps1**
 
 14. Click **Create**.
 15. Once the tool is created, it will open up the **Custom Tool (Edit)** page.
 
-![CustomToolEdit](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomToolEdit.png "Custom Tool Edit")
+	![CustomToolEdit](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomToolEdit.png "Custom Tool Edit")
 
 16. Click **Modify**.
 17. The **Custom Tool Input** page will be displayed.
 
-![Custom Tool Input](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomToolInput.png "Custom Tool Input")
+	![Custom Tool Input](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomToolInput.png "Custom Tool Input")
 
 18. Select **LocalGroupName** and **AccountName**.
 19. Click **Add**.
 20. You will see **LocalGroupName** and **AccountName** appear under **Currently Mapped Input Fields**.
 
-![Local Group and Account Input Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/LocalGroupAccountInputFields.png "Local Group and Account Input Fields")
+	![Local Group and Account Input Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/LocalGroupAccountInputFields.png "Local Group and Account Input Fields")
 
 21. Click **Done**.
 22. You will be returned to the **Custom Tool (Edit)** page.  Scroll down to the Arguments section.
 
-![Local Group and Account Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/LocalGroupAccountFields.png "Local Group and Account Fields")
+	![Local Group and Account Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/LocalGroupAccountFields.png "Local Group and Account Fields")
 
-For this tool, 2 arguments are required.  Within the Arguments field, type:
+	For this tool, 2 arguments are required.  Within the Arguments field, type:
 
- **-ComputerName &quot;{$TargetHostname}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot;**
+ 	**-ComputerName &quot;{$TargetHostname}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot; -LocalGroupName &quot;{$Custom[LocalGroupName]}&quot;**
 
 23. Scroll down to the **Permissions** section.
 
-![Permissions](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/Permissions.png "Permissions")
+	![Permissions](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/Permissions.png "Permissions")
 
 24. Select the **Assigned Roles**.  The roles selected will have access to run this tool.
 25. Click **Save**.
