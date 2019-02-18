@@ -1,9 +1,8 @@
-# System Frontier
+### System Frontier
 [**http://systemfrontier.com**](http://systemfrontier.com/)
-
 This custom tool is for use with System Frontier.  For more information, please visit: [http://systemfrontier.com/powershell](http://systemfrontier.com/powershell).
 
-### __Add-LocalGroupMember Custom Tool Setup Instructions__
+# __Add-LocalGroupMember Custom Tool Setup Instructions__
 
 1. In System Frontier, click **Settings.**
 2. Click **Custom Fields**.  For this tool you will need to set up 2 additional custom fields.
