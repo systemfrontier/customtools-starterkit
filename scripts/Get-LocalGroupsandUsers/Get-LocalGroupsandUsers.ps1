@@ -2,7 +2,7 @@
 	.SYNOPSIS
 		Gets local groups and users from a computer.
 	.DESCRIPTION
-		This script retrieves LocalGroup, LocalGroupMember and LocalUserAccount information	from a computer.
+		This script retrieves LocalGroup, LocalGroupMember and LocalUserAccount information from a computer.
 	.PARAMETER ComputerName
 		The name of the target computer.
 	.EXAMPLE
