@@ -1,7 +1,7 @@
 ### System Frontier
-[**http://systemfrontier.com**](http://systemfrontier.com/)
+[**https://systemfrontier.com**](https://systemfrontier.com/)
 
-This custom tool is for use with System Frontier.  For more information, please visit: [http://systemfrontier.com/powershell](http://systemfrontier.com/powershell).
+This custom tool is for use with System Frontier.  For more information, please visit: [https://systemfrontier.com/powershell](https://systemfrontier.com/powershell).
 
 # Get-Shares Custom Tool Setup Instructions
 
