@@ -6,7 +6,7 @@ This custom tool is for use with System Frontier.  For more information, please 
 # Start-Service Custom Tool Setup Instructions
 
 1. In System Frontier, click **Settings.**
-2. Click **Custom Fields**.  For this tool you will need to set up 2 additional custom fields.
+2. Click **Custom Fields**.  For this tool you will need to set up 1 additional custom field.
 
 	![Custom Fields](https://github.com/systemfrontier/customtools-starterkit/blob/master/images/CustomFields.png "Custom Fields")
 
