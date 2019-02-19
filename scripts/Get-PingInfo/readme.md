@@ -1,7 +1,7 @@
 ### System Frontier
 [**https://systemfrontier.com**](https://systemfrontier.com/)
 
-This custom tool is for use with System Frontier.  For more information, please visit: [https://systemfrontier.com/powershell](https://systemfrontier.com/powershell).ll).
+This custom tool is for use with System Frontier.  For more information, please visit: [https://systemfrontier.com/powershell](https://systemfrontier.com/powershell).
 
 # Get-PingInfo Custom Tool Setup Instructions
 
